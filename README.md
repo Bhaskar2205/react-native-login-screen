@@ -1,11 +1,8 @@
-# Sample Snack app
+# React Native Login Screen
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+Simple React Native Login Form
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+![React Native Login Form Screenshot](https://i.ibb.co/XsLDWC/Screenshot-20220501-154050.png)
+![React Native Login Form Screenshot](https://i.ibb.co/NpDjv2/Screenshot-20220501-154050.png)
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+That's it for my Login-Register project! I'm new to React Native and React.JS. I will share everything on this way here. thank you software brothers / sisters
